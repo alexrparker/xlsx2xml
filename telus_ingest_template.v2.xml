@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assetPackages xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <assetPackage asset_name="__asset_name__" product="VOD" providerID="__providerID__" providerName="__providerName__" type="VOD">
+    <metadata>
+      <assetID>__package_assetID__</assetID>
+      <title language="en">__title__</title>
+      <reducedTitle language="en">__reducedTitle__</reducedTitle>
+      <summary language="en">__summary__</summary>
+      <shortSummary language="en">__shortSummary__</shortSummary>
+      <rating rating_system="TELUSMovie" value="A" />
+      <runTimeMinutes>93</runTimeMinutes>
+      <release_year>2018</release_year>
+      <OFRB>000</OFRB>
+      <CountryofOrigin>US</CountryofOrigin>
+	  <person fname="__Producer_fname__" lname="" role="Producer" />
+      <studio>__studio__</studio>
+      <category>Adult XXX Features</category>
+      <App_Data App="VOD" Name="Canadian_Content" Value="0" />
+      <App_Data App="VOD" Name="Closed_Captioning" Value="Y" />
+    </metadata>
+    <businessMetadata>
+      <suggestedPrice>10.00</suggestedPrice>
+      <currency_iso3166-2>ca</currency_iso3166-2>
+    </businessMetadata>
+    <rightsMetadata>
+      <licensingWindowStart>2019-06-06T00:00:00</licensingWindowStart>
+      <licensingWindowEnd>2019-07-05T23:59:59</licensingWindowEnd>
+      <availabilityWindowStart>2019-06-06T00:00:00</availabilityWindowStart>
+      <availabilityWindowEnd>2019-07-05T23:59:59</availabilityWindowEnd>
+      <maximumViewingLimit>1440</maximumViewingLimit>
+    </rightsMetadata>
+    <asset asset_name="__asset_name__" type="feature" verb="">
+      <metadata>
+        <assetID>__feature_assetID__</assetID>
+        <providerID>__providerID__</providerID>
+        <language_iso639>en</language_iso639>
+        <rating rating_system="TELUSMovie" value="A" />
+        <HD>TRUE</HD>
+        <audio>Stereo</audio>
+      </metadata>
+      <content>__feature_content__</content>
+    </asset>
+    <asset asset_name="__asset_name__" type="poster" verb="">
+      <metadata>
+        <assetID>__poster_assetID__</assetID>
+        <providerID>__providerID__</providerID>
+        <language_iso639>en</language_iso639>
+        <rating rating_system="TELUSMovie" value="A" />
+      </metadata>
+      <content>__poster_content__</content>
+    </asset>
+  </assetPackage>
+</assetPackages>
